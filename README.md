@@ -24,7 +24,7 @@ This story only relates to back end development, **no** front end styling or wel
 
 #### User Story
 
-*"As an **employee** I wish to be able to record an objective along with the tasks I need to complete in order to meet this objective"*
+_"As an **employee** I wish to be able to record an objective along with the tasks I need to complete in order to meet this objective"_
 
 **GIVEN I am on the website**
  
