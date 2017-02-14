@@ -15,7 +15,7 @@ If you have any questions, please get in touch.
 ## Background
 One of our clients has approached us with a brief to build a simple website that helps with their employee objective setting process.
 
-The client wants to be able to record employee's objectives along with a simple list of tasks that the employee should complete in order to meet their objective.
+The client wants to be able to record employee's objectives along with a simple list of related tasks that the employee needs to complete in order to meet this objective.
 
 ## Requirements
 There have been a number of user stories created to record the requirements of this system. The following of which has been assigned to you in order to start the project.
@@ -24,7 +24,7 @@ This story only relates to back end development, **no** front end styling or wel
 
 #### User Story
 
-_"As an **employee** I wish to be able to record an objective along with the tasks I need to complete in order to meet this objective"_
+_"As an **employee** I wish to be able to record an objective along with related tasks I need to complete in order to meet this objective"_
 
 **GIVEN I am on the website**
  
@@ -45,16 +45,12 @@ A task is made up of the following fields:
 
 **AC2:**
 
-THEN I want to be able to view and edit this objective and it's tasks
+THEN I want to be able to view and edit this objective and it's related tasks
 
 **AC3:**
 
 THEN I want to be able to complete tasks as and when I've finished them
 
 **AC4:**
-
-THEN I want to be able to see when I've completed these tasks
-
-**AC5:**
 
 THEN I want to see that I've met my objective when I've completed all the related tasks
