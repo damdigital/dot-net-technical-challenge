@@ -5,20 +5,23 @@ The purpose of this technical challenge is to get a feel for the current skill l
 ## Task
 We would like you to demonstrate your development skills by delivering a solution to a short set of requirements listed below.
 
-* We don't expect you to spend any longer than **2 hours** on this task. 
+* We don't expect you to spend any longer than **2/3 hours** on this task. 
 * Once you have finished, please send us a link to your zipped code or *even better* a link to your solution in a **hosted Git repository** (GitHub / BitBucket etc.).
+* You may also wish to include some handover notes along with your code.
 
 As part of the recruitment process we would like you to discuss your solution, the approach you've taken and any challenges you faced.
 
 If you have any questions, please get in touch.
 
 ## Background
-One of our clients has approached us with a brief to build a simple website that helps with their employee objective setting process.
+One of our clients has approached us with a brief to build a website that helps with their employee objective setting process.
 
 The client wants to be able to record employee's objectives along with a simple list of related tasks that the employee needs to complete in order to meet this objective.
 
 ## Requirements
 There have been a number of user stories created to record the requirements of this system. The following of which has been assigned to you in order to start the project.
+
+As you will be the developer starting this project do think about how you may wish to architecture the solution. Your code will form the foundation of a much bigger project going forward. 
 
 This story only relates to back end development, **no** front end styling or well structured HTML is required. A front end developer will pick up your solution later, taking your functionality and integrating their front end code.
 
