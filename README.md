@@ -21,7 +21,7 @@ The client wants to be able to record employee's objectives along with a simple 
 ## Requirements
 There have been a number of user stories created to record the requirements of this system. The following of which has been assigned to you in order to start the project.
 
-As you will be the developer starting this project do think about how you may wish to architecture the solution. Your code will form the foundation of a much bigger project going forward. 
+As you will be the developer starting this project do think about how you may wish to architect the solution. Your code will form the foundation of a much bigger project going forward. 
 
 This story only relates to back end development, **no** front end styling or well structured HTML is required. A front end developer will pick up your solution later, taking your functionality and integrating their front end code.
 
